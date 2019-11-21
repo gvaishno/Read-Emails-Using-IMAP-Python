@@ -3,7 +3,7 @@ Read Emails Using IMAP (Python)
 
 There are many, many ways to get communication data using Python, and there are also many different forms of communication texts, comments, video uploads, etc. This section shows only one of the ways to use Python to get and parse email data.
 
-First, we need to get some emails. You can do this with IMAP and the Python library imaplib. Any personal information has been removed from the script (see Listing 10), so you can either take all of this at my word, or you can use your own information.
+First, we need to get some emails. You can do this with IMAP and the Python library imaplib. Any personal information has been removed from the script, so you can either take all of this at my word, or you can use your own information.
 
 This example uses a Gmail account. For the script to work, IMAP needs to be enabled on your Gmail account.
 
